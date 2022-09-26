@@ -1,7 +1,3 @@
-
-# Me
-
-=======
 # My resume
 
 My resume is a Django project with my resume.
