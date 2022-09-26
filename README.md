@@ -7,7 +7,7 @@ My resume is a Django project with my resume.
 Clone project from github.
 
 ```bash
-git clone https://github.com/M1steryO/My resume.git
+git clone https://github.com/M1steryO/My-resume.git
 ```
 
 ## Usage
