@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Me
 
 =======
@@ -27,4 +27,4 @@ After that, the application will be launched on the local server http://127.0.0.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
->>>>>>> 7aff6f8d0246c0e9332e9dd2eb25fcd44c525c51
+
